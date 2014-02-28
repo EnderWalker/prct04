@@ -1,0 +1,8 @@
+a=float(raw_input('Valor de a:'))
+b=float(raw_input('Valor de b:'))
+if b!=0
+print 'b= indeterminacion'
+pass
+else
+x=-b/a
+print 'Solucion:', x
